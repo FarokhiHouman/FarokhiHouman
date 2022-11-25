@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Houman Farokhi
-- 👀 I’m interested in C# and SQL server 
-- 🌱 I’m currently learning Python and JavaScript
+- 👀 I’m interested in C# , SQL server , SSIS , SSRS
+- 🌱 I’m currently learning JavaScript , Asp.net , SSAS
 
 - 📫 How to reach me : 
 - 			Twitter: @FarokhiHouman
